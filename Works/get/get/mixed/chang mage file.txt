@@ -1,0 +1,4 @@
+app\code\Mage\ImportExport\Model\Import\Entity\Abstract.php
+
+line 92
+ protected $_errorsLimit = 10000000000000;
